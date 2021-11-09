@@ -6,7 +6,7 @@ const NavBar = () => {
         {/* <Link to="/" className="navbar-brand ml-5">React Redux contact app
 
         </Link> */}
-        <a href="/" className="navbar-brand ml-5">React Redux contact app
+        <a href="/" className="navbar-brand mr-5 ">React Redux Contact App
 
         </a>
             
